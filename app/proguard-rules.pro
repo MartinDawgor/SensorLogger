@@ -1,0 +1,3 @@
+-keep class com.salihov.sensorlogger.data.service.SensorRecordingService { *; }
+-keep class com.salihov.sensorlogger.domain.model.** { *; }
+-dontwarn kotlinx.coroutines.**
