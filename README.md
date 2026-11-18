@@ -1,4 +1,7 @@
-# AIDA SensorLogger
+<div align="center">
+  <img src="assets/logo.svg" width="96" height="96" alt="AIDA SensorLogger"/>
+  <h1>AIDA SensorLogger</h1>
+</div>
 
 Локальный диагностический комбайн и сенсор-логгер под Android (`minSdk 24`, `targetSdk 35`) в строгом UI без рекламы, облачных аккаунтов и платных подписок. Пишет сырую и агрегированную телеметрию со всех доступных датчиков HAL, GPS, BLE, микрофона и системных подсистем, на месте прогоняет статистику и выдает готовые отчеты.
 
